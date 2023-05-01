@@ -1,0 +1,27 @@
+#root {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.appWrapper{
+  width: 100vw;
+  height: 100vh;
+  padding: 50px 0;
+}
+.mainApp{
+  width: 500px;
+  height: 100%;
+  margin: auto;
+  background-color: gray;
+  padding: 10px;
+}
+.mainApp h2{
+  text-align: center;
+}
+.todoAddBar{
+  margin: 20px 0;
+}
+.content{
+  gap: 10px;
+}
